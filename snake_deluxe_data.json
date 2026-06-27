@@ -1,0 +1,29 @@
+{
+  "highscore": 200,
+  "stats": {
+    "games_played": 59,
+    "total_score": 1410,
+    "high_score": 200,
+    "food_eaten": 1,
+    "longest_snake": 4,
+    "time_played": 0.0,
+    "max_combo": 1
+  },
+  "leaderboard": [
+    [
+      200,
+      "普通",
+      "classic"
+    ],
+    [
+      100,
+      "普通",
+      "classic"
+    ],
+    [
+      50,
+      "普通",
+      "classic"
+    ]
+  ]
+}
